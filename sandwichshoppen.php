@@ -5,12 +5,12 @@
     <body>
         <div id="container" style="width:100%">
 
-            <div id="header" style="background-color:#04B431; height: 100px; line-height:2; width:73%; float:left; text-align: center;">
+            <div id="header" style="background-color:#04B431; height: 100px; line-height:2; width:60%; float:left; text-align: center;">
                 <font style="color:#FFFFFF; font-size: 50; text-align: center;">
                 Sandwich Shoppen
                 </font>
             </div>
-            <div style="background-color:#04B431; height: 100px; line-height:2; width:27%; float:right;">
+            <div style="background-color:#04B431; height: 100px; line-height:2; width:40%; float:right;">
                 <center>Brugernavn:<input><br>
                     Adgangskode:<input type="password"><br>
                     <button>Log ind</button>
